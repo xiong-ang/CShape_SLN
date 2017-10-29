@@ -1,0 +1,9 @@
+E:\VS Program\CShape_SLN\DragDropDemo\bin\Release\DragDropDemo.exe.config
+E:\VS Program\CShape_SLN\DragDropDemo\bin\Release\DragDropDemo.exe
+E:\VS Program\CShape_SLN\DragDropDemo\bin\Release\DragDropDemo.pdb
+E:\VS Program\CShape_SLN\DragDropDemo\obj\Release\DragDropDemo.csprojResolveAssemblyReference.cache
+E:\VS Program\CShape_SLN\DragDropDemo\obj\Release\DragDropDemo.Form1.resources
+E:\VS Program\CShape_SLN\DragDropDemo\obj\Release\DragDropDemo.Properties.Resources.resources
+E:\VS Program\CShape_SLN\DragDropDemo\obj\Release\DragDropDemo.csproj.GenerateResource.Cache
+E:\VS Program\CShape_SLN\DragDropDemo\obj\Release\DragDropDemo.exe
+E:\VS Program\CShape_SLN\DragDropDemo\obj\Release\DragDropDemo.pdb
