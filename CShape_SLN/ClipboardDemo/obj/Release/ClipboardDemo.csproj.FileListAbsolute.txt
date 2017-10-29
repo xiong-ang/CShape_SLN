@@ -1,8 +1,0 @@
-E:\VS Program\CShape_SLN\ClipboardDemo\bin\Release\ClipboardDemo.exe.config
-E:\VS Program\CShape_SLN\ClipboardDemo\bin\Release\ClipboardDemo.exe
-E:\VS Program\CShape_SLN\ClipboardDemo\bin\Release\ClipboardDemo.pdb
-E:\VS Program\CShape_SLN\ClipboardDemo\obj\Release\ClipboardDemo.Form1.resources
-E:\VS Program\CShape_SLN\ClipboardDemo\obj\Release\ClipboardDemo.Properties.Resources.resources
-E:\VS Program\CShape_SLN\ClipboardDemo\obj\Release\ClipboardDemo.csproj.GenerateResource.Cache
-E:\VS Program\CShape_SLN\ClipboardDemo\obj\Release\ClipboardDemo.exe
-E:\VS Program\CShape_SLN\ClipboardDemo\obj\Release\ClipboardDemo.pdb

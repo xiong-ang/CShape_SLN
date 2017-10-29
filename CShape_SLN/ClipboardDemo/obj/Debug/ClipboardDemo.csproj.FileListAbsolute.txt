@@ -1,9 +1,0 @@
-E:\VS Program\CShape_SLN\ClipboardDemo\bin\Debug\ClipboardDemo.exe.config
-E:\VS Program\CShape_SLN\ClipboardDemo\bin\Debug\ClipboardDemo.exe
-E:\VS Program\CShape_SLN\ClipboardDemo\bin\Debug\ClipboardDemo.pdb
-E:\VS Program\CShape_SLN\ClipboardDemo\obj\Debug\ClipboardDemo.csprojResolveAssemblyReference.cache
-E:\VS Program\CShape_SLN\ClipboardDemo\obj\Debug\ClipboardDemo.Form1.resources
-E:\VS Program\CShape_SLN\ClipboardDemo\obj\Debug\ClipboardDemo.Properties.Resources.resources
-E:\VS Program\CShape_SLN\ClipboardDemo\obj\Debug\ClipboardDemo.csproj.GenerateResource.Cache
-E:\VS Program\CShape_SLN\ClipboardDemo\obj\Debug\ClipboardDemo.exe
-E:\VS Program\CShape_SLN\ClipboardDemo\obj\Debug\ClipboardDemo.pdb
