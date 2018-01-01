@@ -1,0 +1,6 @@
+E:\VS Program\Serialize_Deserialize\Serialize_Deserialize\bin\Debug\Serialize_Deserialize.exe.config
+E:\VS Program\Serialize_Deserialize\Serialize_Deserialize\bin\Debug\Serialize_Deserialize.exe
+E:\VS Program\Serialize_Deserialize\Serialize_Deserialize\bin\Debug\Serialize_Deserialize.pdb
+E:\VS Program\Serialize_Deserialize\Serialize_Deserialize\obj\Debug\Serialize_Deserialize.csprojResolveAssemblyReference.cache
+E:\VS Program\Serialize_Deserialize\Serialize_Deserialize\obj\Debug\Serialize_Deserialize.exe
+E:\VS Program\Serialize_Deserialize\Serialize_Deserialize\obj\Debug\Serialize_Deserialize.pdb

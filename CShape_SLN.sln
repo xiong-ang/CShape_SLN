@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClipboardDemo", "ClipboardD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragDropDemo", "DragDropDemo\DragDropDemo.csproj", "{59CA600F-1A90-478D-896F-CDB4AC8FD3E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialize_Deserialize", "Serialize_Deserialize\Serialize_Deserialize.csproj", "{1A2781DC-D964-44FA-9F1A-549BD3633E9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{59CA600F-1A90-478D-896F-CDB4AC8FD3E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59CA600F-1A90-478D-896F-CDB4AC8FD3E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59CA600F-1A90-478D-896F-CDB4AC8FD3E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A2781DC-D964-44FA-9F1A-549BD3633E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2781DC-D964-44FA-9F1A-549BD3633E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2781DC-D964-44FA-9F1A-549BD3633E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2781DC-D964-44FA-9F1A-549BD3633E9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
