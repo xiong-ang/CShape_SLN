@@ -1,0 +1,10 @@
+C:\Users\axiong3\Desktop\CShape\Serialize_extra\bin\Debug\netcoreapp2.0\Serialize_extra.deps.json
+C:\Users\axiong3\Desktop\CShape\Serialize_extra\bin\Debug\netcoreapp2.0\Serialize_extra.runtimeconfig.json
+C:\Users\axiong3\Desktop\CShape\Serialize_extra\bin\Debug\netcoreapp2.0\Serialize_extra.runtimeconfig.dev.json
+C:\Users\axiong3\Desktop\CShape\Serialize_extra\bin\Debug\netcoreapp2.0\Serialize_extra.dll
+C:\Users\axiong3\Desktop\CShape\Serialize_extra\bin\Debug\netcoreapp2.0\Serialize_extra.pdb
+C:\Users\axiong3\Desktop\CShape\Serialize_extra\obj\Debug\netcoreapp2.0\Serialize_extra.csproj.CoreCompileInputs.cache
+C:\Users\axiong3\Desktop\CShape\Serialize_extra\obj\Debug\netcoreapp2.0\Serialize_extra.AssemblyInfoInputs.cache
+C:\Users\axiong3\Desktop\CShape\Serialize_extra\obj\Debug\netcoreapp2.0\Serialize_extra.AssemblyInfo.cs
+C:\Users\axiong3\Desktop\CShape\Serialize_extra\obj\Debug\netcoreapp2.0\Serialize_extra.dll
+C:\Users\axiong3\Desktop\CShape\Serialize_extra\obj\Debug\netcoreapp2.0\Serialize_extra.pdb

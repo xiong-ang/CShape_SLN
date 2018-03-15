@@ -16,3 +16,12 @@
 1. 二进制序列化                                
 2. SOAP序列化                              
 3. XML序列化                        
+
+# Serialize_Extra          
+* **功能**                  
+为三种序列化提供了一个比较完善的框架，并进行了对比：                
+1. 二进制序列化                                
+2. Json序列化                              
+3. XML序列化     
+* **配置要求**    
+VSCode + .Net Core + NewtonSoft.Json      
