@@ -25,3 +25,11 @@
 3. XML序列化     
 * **配置要求**    
 VSCode + .Net Core + NewtonSoft.Json      
+
+# [IClonableDemo]()          
+* **功能**                  
+实现了四种类型的Clone： 
+1. 基本类型
+2. 对象类型
+3. List
+4. Dictionary                    
